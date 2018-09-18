@@ -1,5 +1,5 @@
 # Travel Content Management Editor
-## Erin Loehr, Ben Rose, Mike Bastian
+Erin Loehr, Ben Rose, Mike Bastian
 
 The company 14Eleven Development seeks to build a web-based travel content management solution to provide their business-to-business (B2B) 
 clients an efficient platform to edit, showcase, and organize their content. Travelers from all over the world visit towns and cities they may 

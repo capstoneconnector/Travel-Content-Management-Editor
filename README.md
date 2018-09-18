@@ -6,3 +6,5 @@ clients an efficient platform to edit, showcase, and organize their content. Tra
 know little about, and they want to experience all the local activities, places, and events during their stay. Our B2B clients require a 
 toolset to integrate and/or sync data from external systems or sources; to build and create complex tours for travelers to follow and track on 
 a mobile device; and to maintain their data, including text and media assets.
+
+[Link] Team Meetings

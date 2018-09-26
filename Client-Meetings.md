@@ -1,4 +1,6 @@
-# Our First Client Meeting
+# Client Meetings 
+
+### First Meeting: 9/20/18
 1. kyle has 2 kids and is not available in the evenings.
 2. He went to Ball State and majored in Computer Science.
 3. He created the Traveler App as a consumer based application for the architecture college. He eventually purchased this app from the university.

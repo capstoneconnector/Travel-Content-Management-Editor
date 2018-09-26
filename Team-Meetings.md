@@ -25,5 +25,5 @@
   * Sync up websites? Automatically when changed? Additional step? At a certain time everyday?
 
 ### 9/26/18
-  Meet up at 10am in the library to disuss Thursday's presentation. Divided work for creating the slides/designated who was speaking about 
+  Met up at 10am in the library to disuss Thursday's presentation. Divided work for creating the slides/designated who was speaking about 
   what. Created a Ball State Box folder to share files.  

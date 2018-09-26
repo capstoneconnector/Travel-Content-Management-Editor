@@ -7,5 +7,5 @@ know little about, and they want to experience all the local activities, places,
 toolset to integrate and/or sync data from external systems or sources; to build and create complex tours for travelers to follow and track on 
 a mobile device; and to maintain their data, including text and media assets.
 
-[Team Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Team-Meetings.md)
+[Team Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Team-Meetings.md)  
 [Client Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Client-Meetings.md)

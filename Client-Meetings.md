@@ -1,4 +1,4 @@
-# Client Meetings 
+# Client Meeting Minutes 
 
 ### First Meeting: 9/20/18
 1. kyle has 2 kids and is not available in the evenings.

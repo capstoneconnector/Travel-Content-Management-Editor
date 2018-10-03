@@ -11,6 +11,6 @@ a mobile device; and to maintain their data, including text and media assets.
 ---
 
 ### Links to Repository Pages:
-[Team Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Team-Meetings.md)  
+[Team Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/tree/master/Team-Meetings)  
 [Client Meetings](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Client-Meetings.md)  
 [Presentations](https://github.com/erincloehr/Travel-Content-Management-Editor/tree/master/Presentations)

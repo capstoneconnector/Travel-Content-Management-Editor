@@ -12,3 +12,28 @@
 9. Sync external things into the app soley, not the other way around.
 10. There should be a free version of azure, although it may be slower.
 11. Monday October 15th at 10 am NEXT MEETING
+
+
+### Second Meeting: 10/15/18
+1. Schema Information
+  Updated by Tours/Events, not visible but still stored after Date
+  No automation done by us
+  No data Deleted
+2. Tour Details
+  Flags that identify users who can see certain Tours/Events
+  Talked about collaborators, but will come back to in later meetings
+3. Manually entering information
+  Search capabilities
+  Usually grabbed by google maps(Long/Lat) what we will use
+  No limits on tours or events available for creation
+4. Marker creation
+  Like google in style
+  Markers should be stitched together after marker information is provided
+  Possibly customer preplans KML file on google (pre set tour)
+  Import KML file that we convert to fit application style
+5. Visual
+  More content view than map, but both are accessible
+  A lot is based on previous tours and events, having that access as well as map and tour creation visible 
+  Customer if having created a tour before, has generic information populated to entry, a lot of times information by customer is reused(pictures)
+6. Avoid using PathPoint**
+  KML import would convert to a geo json file for mapping

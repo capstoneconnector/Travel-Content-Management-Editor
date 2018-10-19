@@ -37,3 +37,4 @@
   Customer if having created a tour before, has generic information populated to entry, a lot of times information by customer is reused(pictures)
 6. Avoid using PathPoint**
   KML import would convert to a geo json file for mapping
+7. Monday November 12th at 10am NEXT MEETING

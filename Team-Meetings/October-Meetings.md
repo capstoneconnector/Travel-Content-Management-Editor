@@ -18,4 +18,7 @@ discussion of specific design details/prototypes.
   * Automatically calculate latitude and longitude?
   * How are the identifiers generated?
   
-Discussed the database schema and what it entails along with the suggestion of each member creating their own prototype version and discussing the differences and similarites before bringing them to the meeting. 
+Discussed the database schema and what it entails along with the suggestion of each member creating their own prototype version and discussing the differences and similarites before bringing them to the meeting.  
+
+### 10/19/18
+We met at 10am in the library to discuss the colloquium (that Ben attended on behalf of the group). We also discussed the midterm and worked on the uml assignment due. We drew a rough sketch of the uml diagram on paper and divided work. 

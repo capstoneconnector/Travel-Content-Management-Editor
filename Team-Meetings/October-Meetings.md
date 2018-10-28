@@ -22,3 +22,6 @@ Discussed the database schema and what it entails along with the suggestion of e
 
 ### 10/19/18
 We met at 10am in the library to discuss the colloquium (that Ben attended on behalf of the group). We also discussed the midterm and worked on the uml assignment due. We drew a rough sketch of the uml diagram on paper and divided work. 
+
+### 10/27/18
+We met at 10am in the library to touch base this week. With the test being this week we didn't end up making much progress. We also met with our client earlier than other groups so we were trying to go over our notes and see what we want to share with the class when presentaion time comes. Our next step may just be drawing some prototyppes of what we may want our webpage to look like.

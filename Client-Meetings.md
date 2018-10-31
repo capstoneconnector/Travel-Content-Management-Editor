@@ -16,7 +16,7 @@
 
 ### Second Meeting: 10/15/18
 1. Schema Information  
-Updated by Tours/Events, not visible but still stored after Date
+Updated by Tours/Events, not visible but still stored after Date  
 No automation done by us  
 No data Deleted  
 2. Tour Details  

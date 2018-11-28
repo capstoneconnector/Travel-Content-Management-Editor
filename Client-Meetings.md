@@ -38,3 +38,30 @@ Customer if having created a tour before, has generic information populated to e
 6. Avoid using PathPoint**  
 KML import would convert to a geo json file for mapping
 7. Monday November 12th at 10am NEXT MEETING
+
+
+### Third Meeting: 11/28/18
+1. Showed Kyle our prototype/UML.
+2. Some changes to prototype include, Locations is known as Places.
+3. Events are more of a list structure because of how few there are.
+4. Order (Tours, Places, Events) and a search feature is needed.
+5. VISUAL STUDIO INFORMATION.
+6. Look up mVC when learning the structure of the visual studio.
+7. When installing things like NuGet packages remember to find the source(Author).
+8. 'Nuton' isn't the correct name but get that software for Json files from NuGet.
+9. Stick with the azure side fo the database connection for testing.
+10. Kyle is sending us packages and stored procedures.
+11. OTHER INFORMATION.
+12. Category is a huge key factor for tours while events are more just connected to the business itself.
+13. Item to organization connection is the main connection that holds everything together (review Domain model)
+14. TO DO.
+15. Might need to create update procedures and others that kyle doesn't have already.
+16. Places have categories assigned to them, there is always a default place.
+17. Need something to manage places --> tours.
+18. Items --> organization.
+19. Map view focus is mainly on Places only.
+20. Featured items(tour editing) - being able to select what places they want to feature which then relates to the organization items.
+21. Kyle will send us background information on the tours involving the path.
+22. Detailed split view, not just one view.
+23. Kyle should be sending us 4 files after meeting.
+24. Next meeting not scheduled because of winter break.

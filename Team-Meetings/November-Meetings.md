@@ -6,3 +6,6 @@
 
 ### 11/18/18
 We met at 7pm at the library. We discussed the client meeting which has been moved back to the 26th per Kyle's request and the sample files that Kyle sent to us. We discussed the Tech Stack and the working prototype that needs to be created for the client meeting. We discussed the possibility of meeting on sometime Tuesday afternoon/evening to start on it.
+
+### 11/30/18
+We met at 10 in the library. We started discussing the planning presentation and what we needed to complete. We began creating the testing framework and adding the requirements and creating milestones in the repository. 

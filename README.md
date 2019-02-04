@@ -8,7 +8,7 @@ know little about, and they want to experience all the local activities, places,
 toolset to integrate and/or sync data from external systems or sources; to build and create complex tours for travelers to follow and track on 
 a mobile device; and to maintain their data, including text and media assets.
 
-[Code](https://github.com/erincloehr/Travel-Content-Management-Editor-Code/tree/master)
+[Code](https://github.com/erincloehr/Travel-Content-Management-Editor-Code/tree/master)  
 [Database](https://github.com/erincloehr/Travel-Content-Management-Editor-Database)
 
 ---

@@ -8,6 +8,8 @@
 ### 1/16/19
 We met at the library at 2pm to dicuss Ben's meeting with our professor and our issues with github. We began setting up the Azure database and designated tasks for the next week.
 
-
 ### 1/27/19
 We met at 6pm on the library to do a quick update over what had been accomplished over the weekend. We discussed issues that had come up and decided to meet early in the week in order to work on them together.
+
+### 1/28/19
+We met at 2 in the library to make sure everyone had connection to the azure database. We also made sure that the database was set up correctly.

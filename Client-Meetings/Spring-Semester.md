@@ -9,6 +9,6 @@
 * User associtaed to one or more organizations - places associated with organization, then tour. 
 * All ID's generated. 
 * Summary override - change based on default location or as an event/tour
-* GeoJSON as a tour view
+* GeoJSON as a tour path
 * Make Person table with Name and GUID to assign that GUID to an organization GUID
 * Limit typing for relational things

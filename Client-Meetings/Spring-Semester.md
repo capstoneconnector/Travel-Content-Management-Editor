@@ -12,3 +12,13 @@
 * GeoJSON as a tour path
 * Make Person table with Name and GUID to assign that GUID to an organization GUID
 * Limit typing for relational things
+
+## March Meeting
+* Important Concerns: Assigning the Place to Tour
+* Fix form fields for validation for more than just one text area.
+* Pick Places for the events
+* Map for the Places
+
+* General concerns: 
+* Edit input fields in more of clean and user friendly way.
+* Primary focus was on the map and converting GEOJSON files.

@@ -21,4 +21,12 @@
 
 * General concerns: 
 * Edit input fields in more of clean and user friendly way.
-* Primary focus was on the map and converting GEOJSON files.
+* Primary focus was on the map and converting GEOJSON files.  
+
+## April Meeting
+* Discussed technical changes
+* Move add place to tour to "edit page"
+* Disucssed user testing -  Kyle said that he would be our best bet for user testing
+* Discussed transfer and sign-off - giving Kyle access to GitHub repository
+* Events - freeform text - no connection to place
+* MAP FOR LATITTUDE AND LONGITUDE

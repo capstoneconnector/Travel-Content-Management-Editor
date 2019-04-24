@@ -20,4 +20,7 @@ If you don't already have an account, then create one. Otherwise, login and crea
 
 5. Select **Create** and wait a few minutes for the deployment process to complete.
 6. After the deployment completes, click **SQL databases** from the left-hand menu and then click on *yourDatabase* on the SQL databases page. Finally click on **Set server firewall** on the toolbar.
-7. 
+
+7. Click **Add client IP** on the toolbar to add your current IP address to a new IP firewall rule then click **Save**. Click **Ok** and then close the page.
+
+![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/server-firewall-rule.png)

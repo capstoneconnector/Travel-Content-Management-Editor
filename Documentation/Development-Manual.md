@@ -32,3 +32,10 @@ If you don't already have an account, then create one. Otherwise, login and crea
 
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/ssms-connect-object-explorer.png)
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/connect.png)
+
+3. Click **Options** in the Connect to server dialog box. In the Connect to database section, enter yourDatabase to connect to this database. Then click **Connect**.
+
+![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/options-connect-to-db.png)
+
+4. The Object Explorer window opens in SSMS, and you can now expand Databases and then yourDatabases to view the objects in the database.
+

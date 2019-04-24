@@ -59,6 +59,14 @@ https://github.com/bcrose/TCME-Code.git
 1. Open the server explorer by clicking **Server Explorer** on the left side on the screen and Select the **Connect to Database** button at the top of the window.
 
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/vs-add-database.png)
-2. Select the **Connect to Database** button and fill out the 
+
+2. Select the **Connect to Database** button and fill out the form that appears. Then click **OK**
+  * Select **Microsoft SQL Server (SqlClient)** for Data Source
+  * Input your server name
+  * For Authentication, select **SQL Server Authentication** and input your user and password for the server you created
+  * Select or input your database name
+ 
+
+![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/vs-database-form.png)
 
 

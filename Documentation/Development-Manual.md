@@ -14,6 +14,10 @@ If you don't already have an account, then create one. Otherwise, login and crea
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/create-empty-database.png)  
 
 3. Fill out the SQL Database form with the database name, subscription, and resource group and a blank database for the source.
-4. Click **Create a new server** and fill out the form with the server name, admin login, password, and location. Then click **Select**.
+4. Click **Create a new server** and fill out the form with the server name, admin login, password, and location. Then click **Select**. 
 
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/create-database-server.png)  
+
+5. Select **Create** and wait a few minutes for the deployment process to complete.
+6. After the deployment completes, click **SQL databases** from the left-hand menu and then click on *yourDatabase* on the SQL databases page. Finally click on **Set server firewall** on the toolbar.
+7. 

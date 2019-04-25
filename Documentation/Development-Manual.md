@@ -29,7 +29,7 @@
 1. If you do not already have it download, download [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017) and run the application
 2. If you have never used SSMS before, proceed to input the server type, server name, authentication, login, and password into the **Connect to Server** form. Otherwise, select the **Connect Object Explorer** button in the toolbar of the Object Explorer Window and the form will pop-up.
 
-![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/ssms-connect-object-explorer.png)
+![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/ssms-connect-object-explorer.png)  
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/connect.png)
 
 3. Click **Options** in the Connect to server dialog box. In the Connect to database section, enter yourDatabase to connect to this database. Then click **Connect**. The Object Explorer window opens in SSMS, and you can now expand Databases and then yourDatabases to view the objects in the database. 
@@ -69,3 +69,6 @@ https://github.com/bcrose/TCME-Code.git
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/vs-database-form.png)
 
 
+## File Structure
+
+![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/folder-structure.png)

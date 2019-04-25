@@ -72,3 +72,17 @@ https://github.com/bcrose/TCME-Code.git
 ## File Structure
 
 ![alt text](https://github.com/erincloehr/Travel-Content-Management-Editor/blob/master/Documentation/images/folder-structure.png)
+
+#### Content 
+The Content folder contains the css files for the website.
+
+#### Controllers
+The Controllers folder contains two files: FormController and HomeController.  
+* The FormController connects the takes information input in an html form and its corresponding model and   puts that information into the correct database table.
+* The HomeController determines the view and database information that is displayed for each button press or tab navigation.
+
+#### Models
+The Models folder contains classes for each table in the database. It also contains a file called *TravelManagerModel.edmx* which allows the conceptual model and mappings of the database to be seen in its entirety. It is unlikely that anything in this folder will need to be changed. 
+
+#### Views
+The Views folder contains the html files for each page of the web application. These files utilize Razor Syntax which allows a transition from HTML to C# using the **@** symbol.

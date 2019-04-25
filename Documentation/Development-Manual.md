@@ -85,4 +85,4 @@ The Controllers folder contains two files: FormController and HomeController.
 The Models folder contains classes for each table in the database. It also contains a file called *TravelManagerModel.edmx* which allows the conceptual model and mappings of the database to be seen in its entirety. It is unlikely that anything in this folder will need to be changed. 
 
 #### Views
-The Views folder contains the html files for each page of the web application. These files utilize Razor Syntax which allows a transition from HTML to C# using the **@** symbol.
+The Views folder contains the html files for each page of the web application. These files utilize Razor Syntax which allows a transition from HTML to C# using the **"@"** symbol.

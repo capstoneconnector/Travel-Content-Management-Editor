@@ -1,7 +1,7 @@
 # Development Manual
 
 ## The Development Environment
-
+This software was developed using C# and .Net in Visual Studios and an Azure database to store and retrieve data.
 
 ### Creating a Blank Azure Database
 

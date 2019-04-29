@@ -5,12 +5,12 @@
 ## Organization Page:
 1)	You are presented with a list of organizations that your account is connected to.
 2)	Select your Organization:
---a.	With every Organization, there are Tours/Events/Places associated with them.
---b.	Find your Organization and select one of these three, TOURS/EVENTS/PLACES.
+    a.	With every Organization, there are Tours/Events/Places associated with them.
+    b.	Find your Organization and select one of these three, TOURS/EVENTS/PLACES.
 3)	The CREATE NEW link at the top of the page is for new organizations that you wish to create under your current account.
---a.	This page will redirect you to a new page with field boxes.
---b.	The user should input information about the organization as directed.
---c.	Failure to incorrectly input values such as phone number, an error will appear and ask you to correctly format the input.
+    a.	This page will redirect you to a new page with field boxes.
+    b.	The user should input information about the organization as directed.
+    c.	Failure to incorrectly input values such as phone number, an error will appear and ask you to correctly format the input.
 The MAPVIEW link in the navbar is for the user to see their TOURS/EVENTS/PLACES on the map.
 ## Tours Page:
 	After clicking on the Tours link, you are redirected to a similar looking page to the Organizations page.

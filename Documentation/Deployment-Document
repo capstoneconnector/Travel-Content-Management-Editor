@@ -1,4 +1,4 @@
-#Deployment Document
+# Deployment Document
 - Deployment through azure was very simple
 - It was done a the click of the button since we are connected to the Azure server
 - To access the site just follow this link: https://travel-content-management-editor20190424050040.azurewebsites.net/
